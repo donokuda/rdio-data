@@ -1,0 +1,204 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Alexisonfire Farewell Playlist</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p12325779</meta>
+  <meta rel="https://rdio.com/xspf/name">Alexisonfire Farewell Playlist</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/12325779/Alexisonfire_Farewell_Playlist/</meta>
+  <trackList>
+    <track>
+      <title>Young Cardinals</title>
+      <creator>Alexisonfire</creator>
+      <album>Old Crows Young Cardinals</album>
+      <trackNum>2</trackNum>
+      <duration>218000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVR90954002,CADE70900017</meta>
+    </track>
+    <track>
+      <title>Boiled Frogs</title>
+      <creator>Alexisonfire</creator>
+      <album>Crisis</album>
+      <trackNum>4</trackNum>
+      <duration>237000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70901045,CAD320600141</meta>
+    </track>
+    <track>
+      <title>Heading For The Sun</title>
+      <creator>Alexisonfire</creator>
+      <album>Old Crows Young Cardinals</album>
+      <trackNum>9</trackNum>
+      <duration>225000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVR90954009,CADE70900024</meta>
+    </track>
+    <track>
+      <title>Pulmonary Archery</title>
+      <creator>Alexisonfire</creator>
+      <album>Alexisonfire (Remastered)</album>
+      <trackNum>11</trackNum>
+      <duration>202000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70901076</meta>
+    </track>
+    <track>
+      <title>Drunks, Lovers, Sinners And Saints</title>
+      <creator>Alexisonfire</creator>
+      <album>Crisis</album>
+      <trackNum>1</trackNum>
+      <duration>229000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAD320600138,CADE70901042</meta>
+    </track>
+    <track>
+      <title>No Transitory</title>
+      <creator>Alexisonfire</creator>
+      <album>"Watch out!"</album>
+      <trackNum>6</trackNum>
+      <duration>196000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70901060</meta>
+    </track>
+    <track>
+      <title>Get Fighted</title>
+      <creator>Alexisonfire</creator>
+      <album>"Watch out!"</album>
+      <trackNum>10</trackNum>
+      <duration>185000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70901064</meta>
+    </track>
+    <track>
+      <title>Midnight Regulations</title>
+      <creator>Alexisonfire</creator>
+      <album>Old Crows Young Cardinals</album>
+      <trackNum>7</trackNum>
+      <duration>251000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70900022,USVR90954007</meta>
+    </track>
+    <track>
+      <title>Waterwings (And Other Pool Side Fashion Faux Pas)</title>
+      <creator>Alexisonfire</creator>
+      <album>Alexisonfire (Remastered)</album>
+      <trackNum>6</trackNum>
+      <duration>158000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70901071</meta>
+    </track>
+    <track>
+      <title>Control</title>
+      <creator>Alexisonfire</creator>
+      <album>"Watch out!"</album>
+      <trackNum>2</trackNum>
+      <duration>223000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70901056</meta>
+    </track>
+    <track>
+      <title>Rough Hands</title>
+      <creator>Alexisonfire</creator>
+      <album>Crisis</album>
+      <trackNum>11</trackNum>
+      <duration>331000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAD320600148,CADE70901052</meta>
+    </track>
+    <track>
+      <title>Born And Raised</title>
+      <creator>Alexisonfire</creator>
+      <album>Old Crows Young Cardinals</album>
+      <trackNum>4</trackNum>
+      <duration>241000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70900019,USVR90954004</meta>
+    </track>
+    <track>
+      <title>Old Crows</title>
+      <creator>Alexisonfire</creator>
+      <album>Old Crows Young Cardinals</album>
+      <trackNum>1</trackNum>
+      <duration>257000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVR90954001,CADE70900016</meta>
+    </track>
+    <track>
+      <title>You Burn First</title>
+      <creator>Alexisonfire</creator>
+      <album>Crisis</album>
+      <trackNum>6</trackNum>
+      <duration>162000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAD320600143,CADE70901047</meta>
+    </track>
+    <track>
+      <title>We Are The Sound</title>
+      <creator>Alexisonfire</creator>
+      <album>Crisis</album>
+      <trackNum>5</trackNum>
+      <duration>220000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAD320600142,CADE70901046</meta>
+    </track>
+    <track>
+      <title>Keep It On Wax</title>
+      <creator>Alexisonfire</creator>
+      <album>Crisis</album>
+      <trackNum>9</trackNum>
+      <duration>228000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAD320600146,CADE70901050</meta>
+    </track>
+    <track>
+      <title>Accept Crime</title>
+      <creator>Alexisonfire</creator>
+      <album>Old Crows Young Cardinals</album>
+      <trackNum>10</trackNum>
+      <duration>194000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70900025,USVR90954010</meta>
+    </track>
+    <track>
+      <title>Dog's Blood</title>
+      <creator>Alexisonfire</creator>
+      <album>Dog's Blood EP</album>
+      <trackNum>1</trackNum>
+      <duration>358000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70900609</meta>
+    </track>
+    <track>
+      <title>To A Friend</title>
+      <creator>Alexisonfire</creator>
+      <album>Crisis</album>
+      <trackNum>10</trackNum>
+      <duration>198000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAD320600147,CADE70901051</meta>
+    </track>
+    <track>
+      <title>.44 Caliber Love Letter</title>
+      <creator>Alexisonfire</creator>
+      <album>Alexisonfire (Remastered)</album>
+      <trackNum>1</trackNum>
+      <duration>271000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70901066</meta>
+    </track>
+    <track>
+      <title>Accidents</title>
+      <creator>Alexisonfire</creator>
+      <album>"Watch out!"</album>
+      <trackNum>1</trackNum>
+      <duration>249000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70901055</meta>
+    </track>
+    <track>
+      <title>The Northern</title>
+      <creator>Alexisonfire</creator>
+      <album>Old Crows Young Cardinals</album>
+      <trackNum>6</trackNum>
+      <duration>268000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70900021,USVR90954006</meta>
+    </track>
+    <track>
+      <title>This Could Be Anywhere In The World</title>
+      <creator>Alexisonfire</creator>
+      <album>Crisis</album>
+      <trackNum>2</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAD320600139,CAD320600140,CADE70901043</meta>
+    </track>
+    <track>
+      <title>Happiness by the Kilowatt</title>
+      <creator>Alexisonfire</creator>
+      <album>"Watch out!"</album>
+      <trackNum>11</trackNum>
+      <duration>311000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70901065</meta>
+    </track>
+  </trackList>
+</playlist>

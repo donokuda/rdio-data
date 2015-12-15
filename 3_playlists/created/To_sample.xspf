@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>To sample</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p12971319</meta>
+  <meta rel="https://rdio.com/xspf/name">To sample</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/12971319/To_sample/</meta>
+  <trackList>
+    <track>
+      <title>Equipoise</title>
+      <creator>Max Roach</creator>
+      <album>Members Don't Get Weary</album>
+      <trackNum>4</trackNum>
+      <duration>381000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20201554</meta>
+    </track>
+    <track>
+      <title>Sakamoto: Merry Christmas Mr. Lawrence</title>
+      <creator>Ryuichi Sakamoto</creator>
+      <album>Playing The Piano - US Version (Special Edition)</album>
+      <trackNum>2</trackNum>
+      <duration>281000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA6D0910328</meta>
+    </track>
+    <track>
+      <title>Vesti la giubba from I Pagliacci</title>
+      <creator>Toshiko Akiyoshi</creator>
+      <album>Classic Encounters (feat. Reiko Honsho)</album>
+      <trackNum>8</trackNum>
+      <duration>332000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCGJ1198691</meta>
+    </track>
+  </trackList>
+</playlist>

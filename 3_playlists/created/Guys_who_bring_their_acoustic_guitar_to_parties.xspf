@@ -1,0 +1,60 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Guys who bring their acoustic guitar to parties</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p12012813</meta>
+  <meta rel="https://rdio.com/xspf/name">Guys who bring their acoustic guitar to parties</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/12012813/Guys_who_bring_their_acoustic_guitar_to_parties/</meta>
+  <trackList>
+    <track>
+      <title>Now Is Not the Time</title>
+      <creator>Leo Stannard</creator>
+      <album>Notions EP</album>
+      <trackNum>2</trackNum>
+      <duration>240000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABX1490808</meta>
+    </track>
+    <track>
+      <title>First Day Of My Life</title>
+      <creator>Bright Eyes</creator>
+      <album>I'm Wide Awake It's Morning</album>
+      <trackNum>6</trackNum>
+      <duration>188000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60507206</meta>
+    </track>
+    <track>
+      <title>Hero</title>
+      <creator>Family of the Year</creator>
+      <album>Loma Vista</album>
+      <trackNum>5</trackNum>
+      <duration>190000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAN111200237</meta>
+    </track>
+    <track>
+      <title>Boiled Frogs ((Alexisonfire Cover))</title>
+      <creator>City and Colour</creator>
+      <album>Live At The Verge</album>
+      <trackNum>1</trackNum>
+      <duration>214000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CADE70900346</meta>
+    </track>
+    <track>
+      <title>I Will Follow You Into The Dark</title>
+      <creator>Death Cab for Cutie</creator>
+      <album>Plans</album>
+      <trackNum>5</trackNum>
+      <duration>189000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20504677</meta>
+    </track>
+    <track>
+      <title>The A Team</title>
+      <creator>Ed Sheeran</creator>
+      <album>The A Team</album>
+      <trackNum>1</trackNum>
+      <duration>258000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAHS1100095</meta>
+    </track>
+  </trackList>
+</playlist>

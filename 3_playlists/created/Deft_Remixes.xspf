@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Deft Remixes</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p13752256</meta>
+  <meta rel="https://rdio.com/xspf/name">Deft Remixes</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/13752256/Deft_Remixes/</meta>
+  <trackList>
+    <track>
+      <title>Hyper Real (Deft Remix)</title>
+      <creator>Ital Tek</creator>
+      <album>Hyper Real</album>
+      <trackNum>6</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBWTT1204606</meta>
+    </track>
+    <track>
+      <title>Fancy Restaurant (Deft Remix)</title>
+      <creator>Gang Colours</creator>
+      <album>Fancy Restaurant</album>
+      <trackNum>4</trackNum>
+      <duration>314000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBMEF1200455</meta>
+    </track>
+    <track>
+      <title>Melonkoly (Deft Remix)</title>
+      <creator>Submerse</creator>
+      <album>Melonkoly</album>
+      <trackNum>5</trackNum>
+      <duration>272000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEQ121321207</meta>
+    </track>
+    <track>
+      <title>Invisible Colors (Deft Remix)</title>
+      <creator>123Mrk</creator>
+      <album>Noname EP Remixed</album>
+      <trackNum>2</trackNum>
+      <duration>327000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CA70K1000061</meta>
+    </track>
+    <track>
+      <title>Magellanic Clouds (Deft Remix)</title>
+      <creator>Danny Scrilla</creator>
+      <album>Fluxus</album>
+      <trackNum>6</trackNum>
+      <duration>321000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBWTT1305106</meta>
+    </track>
+    <track>
+      <title>Betamax (Deft Remix)</title>
+      <creator>Big Black Delta</creator>
+      <album>Betamax (Remixes)</album>
+      <trackNum>4</trackNum>
+      <duration>304000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBN41200031</meta>
+    </track>
+    <track>
+      <title>Yapeyú (Deft Remix)</title>
+      <creator>My Panda Shall Fly</creator>
+      <album>Tropical Remixes EP</album>
+      <trackNum>2</trackNum>
+      <duration>274000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUQH1400140</meta>
+    </track>
+    <track>
+      <title>Stutter Shades (Deft Remix)</title>
+      <creator>Glenn Astro</creator>
+      <album>The Power</album>
+      <trackNum>5</trackNum>
+      <duration>228000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB76B1300805</meta>
+    </track>
+    <track>
+      <title>Viaduct (Deft Remix)</title>
+      <creator>Manni Dee</creator>
+      <album>Shifting</album>
+      <trackNum>5</trackNum>
+      <duration>241000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUBF1200024</meta>
+    </track>
+    <track>
+      <title>Bag of Snakes (Deft Remix)</title>
+      <creator>iO Sounds</creator>
+      <album>iO Sounds</album>
+      <trackNum>5</trackNum>
+      <duration>325000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CA70K1000056</meta>
+    </track>
+    <track>
+      <title>Bruk (Deft Remix)</title>
+      <creator>Slick Shoota</creator>
+      <album>Draw</album>
+      <trackNum>8</trackNum>
+      <duration>302000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABJ1204988,UKACT1550181</meta>
+    </track>
+    <track>
+      <title>Cry x3 (Deft Remix)</title>
+      <creator>Polar Pair</creator>
+      <album>Cry x3</album>
+      <trackNum>2</trackNum>
+      <duration>238000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">IL4221201502</meta>
+    </track>
+    <track>
+      <title>Don't Panic (Deft Remix)</title>
+      <creator>WALLWORK &amp; RZR, WALLWORK, RZR</creator>
+      <album>Don't Panic</album>
+      <trackNum>4</trackNum>
+      <duration>308000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">UKA9G1500004</meta>
+    </track>
+  </trackList>
+</playlist>

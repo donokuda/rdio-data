@@ -1,0 +1,164 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Guilty Pleasures</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p13453839</meta>
+  <meta rel="https://rdio.com/xspf/name">Guilty Pleasures</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/13453839/Guilty_Pleasures/</meta>
+  <trackList>
+    <track>
+      <title>Flagpole Sitta</title>
+      <creator>Harvey Danger</creator>
+      <album>Where Have All The Merrymakers Gone?</album>
+      <trackNum>2</trackNum>
+      <duration>217000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USLR29810165</meta>
+    </track>
+    <track>
+      <title>Until The Day I Die</title>
+      <creator>Story Of The Year</creator>
+      <album>Page Avenue (US Non-PA Version)</album>
+      <trackNum>2</trackNum>
+      <duration>236000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMV20300129</meta>
+    </track>
+    <track>
+      <title>Anthem Of Our Dying Day</title>
+      <creator>Story Of The Year</creator>
+      <album>Page Avenue (US Non-PA Version)</album>
+      <trackNum>3</trackNum>
+      <duration>216000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMV20300130</meta>
+    </track>
+    <track>
+      <title>What It Is To Burn (New Version)</title>
+      <creator>Finch</creator>
+      <album>What It Is To Burn</album>
+      <trackNum>13</trackNum>
+      <duration>269000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC10200944</meta>
+    </track>
+    <track>
+      <title>Basket Case</title>
+      <creator>Green Day</creator>
+      <album>International Superhits!</album>
+      <trackNum>5</trackNum>
+      <duration>183000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE19900151</meta>
+    </track>
+    <track>
+      <title>When I Come Around</title>
+      <creator>Green Day</creator>
+      <album>International Superhits!</album>
+      <trackNum>6</trackNum>
+      <duration>178000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE19900154</meta>
+    </track>
+    <track>
+      <title>Minority</title>
+      <creator>Green Day</creator>
+      <album>International Superhits!</album>
+      <trackNum>18</trackNum>
+      <duration>169000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE10000925</meta>
+    </track>
+    <track>
+      <title>Brain Stew</title>
+      <creator>Green Day</creator>
+      <album>International Superhits!</album>
+      <trackNum>10</trackNum>
+      <duration>193000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE19500211</meta>
+    </track>
+    <track>
+      <title>The Middle</title>
+      <creator>Jimmy Eat World</creator>
+      <album>Jimmy Eat World</album>
+      <trackNum>3</trackNum>
+      <duration>166000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDW10110256</meta>
+    </track>
+    <track>
+      <title>Sweetness</title>
+      <creator>Jimmy Eat World</creator>
+      <album>Jimmy Eat World</album>
+      <trackNum>5</trackNum>
+      <duration>220000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDW10110258</meta>
+    </track>
+    <track>
+      <title>Papercut</title>
+      <creator>Linkin Park</creator>
+      <album>Hybrid Theory</album>
+      <trackNum>1</trackNum>
+      <duration>185000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10002403</meta>
+    </track>
+    <track>
+      <title>One Step Closer</title>
+      <creator>Linkin Park</creator>
+      <album>Hybrid Theory</album>
+      <trackNum>2</trackNum>
+      <duration>160000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10002399</meta>
+    </track>
+    <track>
+      <title>Crawling</title>
+      <creator>Linkin Park</creator>
+      <album>Hybrid Theory</album>
+      <trackNum>5</trackNum>
+      <duration>211000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10002405</meta>
+    </track>
+    <track>
+      <title>In The End</title>
+      <creator>Linkin Park</creator>
+      <album>Hybrid Theory</album>
+      <trackNum>8</trackNum>
+      <duration>219000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10002407</meta>
+    </track>
+    <track>
+      <title>Everlong</title>
+      <creator>Foo Fighters</creator>
+      <album>Greatest Hits</album>
+      <trackNum>3</trackNum>
+      <duration>250000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRW29600011</meta>
+    </track>
+    <track>
+      <title>Learn to Fly</title>
+      <creator>Foo Fighters</creator>
+      <album>Greatest Hits</album>
+      <trackNum>6</trackNum>
+      <duration>238000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRW39900002</meta>
+    </track>
+    <track>
+      <title>Monkey Wrench</title>
+      <creator>Foo Fighters</creator>
+      <album>Greatest Hits</album>
+      <trackNum>8</trackNum>
+      <duration>231000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRW29600001</meta>
+    </track>
+    <track>
+      <title>Iris</title>
+      <creator>The Goo Goo Dolls</creator>
+      <album>Dizzy Up The Girl</album>
+      <trackNum>11</trackNum>
+      <duration>290000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19800160</meta>
+    </track>
+    <track>
+      <title>Reinventing Your Exit</title>
+      <creator>Underoath</creator>
+      <album>Anthology 1999-2013</album>
+      <trackNum>12</trackNum>
+      <duration>262000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USTN10422718</meta>
+    </track>
+  </trackList>
+</playlist>

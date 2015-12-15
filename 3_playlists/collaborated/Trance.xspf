@@ -1,0 +1,348 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Trance</title>
+  <creator>HowardTsu</creator>
+  <meta rel="https://rdio.com/xspf/key">p13708308</meta>
+  <meta rel="https://rdio.com/xspf/name">Trance</meta>
+  <meta rel="https://rdio.com/xspf/owner">HowardTsu</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">collaborated</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/HowardTsu/playlists/13708308/Trance/</meta>
+  <trackList>
+    <track>
+      <title>Can't Sleep (Signum Remix)</title>
+      <creator>Above &amp; Beyond</creator>
+      <album>Cant Sleep</album>
+      <trackNum>4</trackNum>
+      <duration>560000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUS10710019</meta>
+    </track>
+    <track>
+      <title>Ecstasy</title>
+      <creator>ATB</creator>
+      <album>No Silence</album>
+      <trackNum>2</trackNum>
+      <duration>261000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEN060401581</meta>
+    </track>
+    <track>
+      <title>I Remember (Vocal Mix)</title>
+      <creator>deadmau5</creator>
+      <album>Random Album Title</album>
+      <trackNum>7</trackNum>
+      <duration>593000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUS10810548</meta>
+    </track>
+    <track>
+      <title>Faxing Berlin</title>
+      <creator>deadmau5</creator>
+      <album>Random Album Title</album>
+      <trackNum>8</trackNum>
+      <duration>521000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUS10810549</meta>
+    </track>
+    <track>
+      <title>9PM [Till I Come]</title>
+      <creator>ATB</creator>
+      <album>Movin' Melodies</album>
+      <trackNum>5</trackNum>
+      <duration>193000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEN060301020</meta>
+    </track>
+    <track>
+      <title>Underwater World</title>
+      <creator>ATB</creator>
+      <album>Movin' Melodies</album>
+      <trackNum>3</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEN060301018</meta>
+    </track>
+    <track>
+      <title>Daydream (Radio Edit)</title>
+      <creator>Markus Schulz, Andy Moor</creator>
+      <album>Daydream</album>
+      <trackNum>1</trackNum>
+      <duration>338000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUS10810508</meta>
+    </track>
+    <track>
+      <title>Air for Life (Airwave Mix)</title>
+      <creator>Above &amp; Beyond</creator>
+      <album>Tri-State Remixed</album>
+      <trackNum>4</trackNum>
+      <duration>473000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWA0726004</meta>
+    </track>
+    <track>
+      <title>Nothing (93 Returning Mix)</title>
+      <creator>Holden and Thompson</creator>
+      <album>Nothing</album>
+      <trackNum>2</trackNum>
+      <duration>482000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBMQ0800211</meta>
+    </track>
+    <track>
+      <title>Tracking Treasure Down (Wippenberg's 128 Remix)</title>
+      <creator>Gabriel &amp; Dresden feat. Molly Bancroft</creator>
+      <album>Tracking Treasure Down</album>
+      <trackNum>4</trackNum>
+      <duration>558000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLF711200234</meta>
+    </track>
+    <track>
+      <title>Mindcircus (Gabriel &amp; Dresden Remix)</title>
+      <creator>Way Out West</creator>
+      <album>In Search Of Sunrise 3</album>
+      <trackNum>4</trackNum>
+      <duration>572000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLE710720741</meta>
+    </track>
+    <track>
+      <title>Say Hello</title>
+      <creator>Deep Dish</creator>
+      <album>Fashion Tv Vol. 1</album>
+      <trackNum>5</trackNum>
+      <duration>190000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TR1791400007</meta>
+    </track>
+    <track>
+      <title>Who Will Find Me</title>
+      <creator>DJ Shah featuring Adrina Thorpe</creator>
+      <album>Who Will Find Me</album>
+      <trackNum>1</trackNum>
+      <duration>586000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLF710701684</meta>
+    </track>
+    <track>
+      <title>Beautiful (Original Extended)</title>
+      <creator>Ferry Corsten</creator>
+      <album>Beautiful</album>
+      <trackNum>1</trackNum>
+      <duration>478000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLQ880600026</meta>
+    </track>
+    <track>
+      <title>Beautiful Things (Gabriel &amp; Dresden Unplugged Mix)</title>
+      <creator>Andain</creator>
+      <album>Forevermore, Vol. 1</album>
+      <trackNum>8</trackNum>
+      <duration>645000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLE710316551</meta>
+    </track>
+    <track>
+      <title>Promises (Myon &amp; Shane 54 Summer Of Love Radio Edit)</title>
+      <creator>Andain</creator>
+      <album>Promises</album>
+      <trackNum>8</trackNum>
+      <duration>228000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLE711138809</meta>
+    </track>
+    <track>
+      <title>Star Guitar</title>
+      <creator>Shinichi Osawa</creator>
+      <album>The One</album>
+      <trackNum>1</trackNum>
+      <duration>353000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">JPB600747201</meta>
+    </track>
+    <track>
+      <title>Satellite (Original Above &amp; Beyond Mix)</title>
+      <creator>OceanLab</creator>
+      <album>Satellite</album>
+      <trackNum>2</trackNum>
+      <duration>447000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWA0300021</meta>
+    </track>
+    <track>
+      <title>Love Theme Dusk (Mike's Broken Record Mix)</title>
+      <creator>Mike Foyle and Signalrunners</creator>
+      <album>Love Theme Dusk</album>
+      <trackNum>1</trackNum>
+      <duration>554000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLF710500427</meta>
+    </track>
+    <track>
+      <title>Wasted (feat. Leah)</title>
+      <creator>Andy Duguid</creator>
+      <album>In Search Of Sunrise 7 - Asia</album>
+      <trackNum>2</trackNum>
+      <duration>503000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLE710821102</meta>
+    </track>
+    <track>
+      <title>Big Sky (Agnelli Nelson)</title>
+      <creator>John O'callaghan Feat. Audrey Gallagher</creator>
+      <album>Trance Top 25 Of 2007</album>
+      <trackNum>6</trackNum>
+      <duration>296000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLF710702214</meta>
+    </track>
+    <track>
+      <title>Dreaming (Libra Mix)</title>
+      <creator>BT</creator>
+      <album>Dreaming - EP</album>
+      <trackNum>5</trackNum>
+      <duration>558000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAN110000101</meta>
+    </track>
+    <track>
+      <title>Going Wrong (Extended Mix)</title>
+      <creator>Armin van Buuren</creator>
+      <album>Imagine</album>
+      <trackNum>2</trackNum>
+      <duration>339000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUS10910108</meta>
+    </track>
+    <track>
+      <title>Nothing But You (feat. Hemstock &amp; Jennings)</title>
+      <creator>Paul van Dyk</creator>
+      <album>Reflections</album>
+      <trackNum>5</trackNum>
+      <duration>418000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEW760300013</meta>
+    </track>
+    <track>
+      <title>Gouryella</title>
+      <creator>Gouryella</creator>
+      <album>Gouryella</album>
+      <trackNum>2</trackNum>
+      <duration>645000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLB779900006</meta>
+    </track>
+    <track>
+      <title>Helsinki Scorchin'</title>
+      <creator>Super8 &amp; Tab</creator>
+      <album>Helsinki Scorchin'</album>
+      <trackNum>1</trackNum>
+      <duration>590000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWA0500048</meta>
+    </track>
+    <track>
+      <title>Photograph (Jonas Hornblad Remix)</title>
+      <creator>Alex M.O.R.P.H.</creator>
+      <album>Photograph</album>
+      <trackNum>2</trackNum>
+      <duration>425000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEQ690800166</meta>
+    </track>
+    <track>
+      <title>Thump</title>
+      <creator>Simon Patterson</creator>
+      <album>Thump</album>
+      <trackNum>1</trackNum>
+      <duration>483000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLC280910010</meta>
+    </track>
+    <track>
+      <title>Ocean Drive Boulevard</title>
+      <creator>Leon Bolier</creator>
+      <album>Pictures</album>
+      <trackNum>11</trackNum>
+      <duration>404000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLC280810024</meta>
+    </track>
+    <track>
+      <title>Let The Light Shine In (12'' Original Mix)</title>
+      <creator>Darren Tate vs Jono Grant</creator>
+      <album>Let The Light Shine In</album>
+      <trackNum>2</trackNum>
+      <duration>473000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLF711402419</meta>
+    </track>
+    <track>
+      <title>Empty Streets (Haji &amp; Emanuel Remix)</title>
+      <creator>Late Night Alumni</creator>
+      <album>Empty Streets</album>
+      <trackNum>5</trackNum>
+      <duration>501000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZXT0938292</meta>
+    </track>
+    <track>
+      <title>Tales From The South (Jonas Steur's Revision Flow)</title>
+      <creator>Tiësto</creator>
+      <album>In Search Of Sunrise 5 - Los Angeles</album>
+      <trackNum>21</trackNum>
+      <duration>596000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLE710620941</meta>
+    </track>
+    <track>
+      <title>Spring Breeze (Martin Roth SummerStyle Remix)</title>
+      <creator>DJ Tatana</creator>
+      <album>Spring Breeze</album>
+      <trackNum>1</trackNum>
+      <duration>383000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CH3130800117</meta>
+    </track>
+    <track>
+      <title>7Skies</title>
+      <creator>Kyau &amp; Albert</creator>
+      <album>7Skies</album>
+      <trackNum>1</trackNum>
+      <duration>217000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEL670700091</meta>
+    </track>
+    <track>
+      <title>The Space We Are</title>
+      <creator>Ronski Speed</creator>
+      <album>The Space We Are</album>
+      <trackNum>3</trackNum>
+      <duration>531000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEL670600072</meta>
+    </track>
+    <track>
+      <title>Sun &amp; Moon (Radio Edit)</title>
+      <creator>Above &amp; Beyond</creator>
+      <album>Sun &amp; Moon (Part 1)</album>
+      <trackNum>1</trackNum>
+      <duration>188000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWA1100051</meta>
+    </track>
+    <track>
+      <title>Adagio For Strings</title>
+      <creator>Tiësto</creator>
+      <album>Just Be</album>
+      <trackNum>10</trackNum>
+      <duration>357000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLE710480320</meta>
+    </track>
+    <track>
+      <title>In The Dark</title>
+      <creator>Tiësto</creator>
+      <album>In The Dark</album>
+      <trackNum>1</trackNum>
+      <duration>233000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLE710783721</meta>
+    </track>
+    <track>
+      <title>Alone Tonight</title>
+      <creator>Above &amp; Beyond</creator>
+      <album>Tri-State</album>
+      <trackNum>9</trackNum>
+      <duration>382000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWA0600019</meta>
+    </track>
+    <track>
+      <title>Home</title>
+      <creator>Above &amp; Beyond</creator>
+      <album>Tri-State</album>
+      <trackNum>13</trackNum>
+      <duration>431000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWA0600023</meta>
+    </track>
+    <track>
+      <title>Sirens of the Sea (Above &amp; Beyond Club Mix)</title>
+      <creator>OceanLab</creator>
+      <album>Sirens of the Sea</album>
+      <trackNum>2</trackNum>
+      <duration>478000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWA0800501</meta>
+    </track>
+    <track>
+      <title>Magenta (Original Mix)</title>
+      <creator>Arno Cost &amp; Arias</creator>
+      <album>Magenta</album>
+      <trackNum>1</trackNum>
+      <duration>429000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRV600600020</meta>
+    </track>
+  </trackList>
+</playlist>

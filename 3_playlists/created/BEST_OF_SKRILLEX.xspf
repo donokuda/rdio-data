@@ -1,0 +1,124 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>BEST OF SKRILLEX</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p1436053</meta>
+  <meta rel="https://rdio.com/xspf/name">BEST OF SKRILLEX</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/1436053/BEST_OF_SKRILLEX/</meta>
+  <trackList>
+    <track>
+      <title>?</title>
+      <creator>Mark Pritchard</creator>
+      <album>? / The Hologram</album>
+      <trackNum>1</trackNum>
+      <duration>370000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUFC0700005</meta>
+    </track>
+    <track>
+      <title>Urban Animal</title>
+      <creator>Claude VonStroke</creator>
+      <album>Urban Animal</album>
+      <trackNum>1</trackNum>
+      <duration>311000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US75Z1310059</meta>
+    </track>
+    <track>
+      <title>Blood Bank</title>
+      <creator>Seekae</creator>
+      <album>+Dome</album>
+      <trackNum>3</trackNum>
+      <duration>222000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUZN31100009</meta>
+    </track>
+    <track>
+      <title>Wen Uuu</title>
+      <creator>Shlohmo</creator>
+      <album>Vacation - Single</album>
+      <trackNum>2</trackNum>
+      <duration>233000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US25X1083609</meta>
+    </track>
+    <track>
+      <title>Spending Time</title>
+      <creator>Submerse</creator>
+      <album>Melonkoly</album>
+      <trackNum>2</trackNum>
+      <duration>201000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEQ121321204</meta>
+    </track>
+    <track>
+      <title>Move On (Bath Remix)</title>
+      <creator>Lali Puna</creator>
+      <album>Silver Light</album>
+      <trackNum>3</trackNum>
+      <duration>258000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX261211703</meta>
+    </track>
+    <track>
+      <title>Love You Gotta Lose Again</title>
+      <creator>Nicolas Jaar</creator>
+      <album>Love You Gotta Lose Again</album>
+      <trackNum>2</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEPL91208042</meta>
+    </track>
+    <track>
+      <title>ARP3</title>
+      <creator>Floating Points</creator>
+      <album>Shadows</album>
+      <trackNum>4</trackNum>
+      <duration>560000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB4HG0900065</meta>
+    </track>
+    <track>
+      <title>The Keeper (Banks Remix)</title>
+      <creator>Bonobo</creator>
+      <album>Black Sands Remixed</album>
+      <trackNum>2</trackNum>
+      <duration>371000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB1102621</meta>
+    </track>
+    <track>
+      <title>The Offbeat</title>
+      <creator>FLYamSAM</creator>
+      <album>Ghostly Swim</album>
+      <trackNum>9</trackNum>
+      <duration>140000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J70907509</meta>
+    </track>
+    <track>
+      <title>What We Held On To</title>
+      <creator>Shigeto</creator>
+      <album>What We Held On To EP</album>
+      <trackNum>4</trackNum>
+      <duration>247000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71001904</meta>
+    </track>
+    <track>
+      <title>In Between</title>
+      <creator>Sweatson Klank</creator>
+      <album>Elevate Me</album>
+      <trackNum>5</trackNum>
+      <duration>222000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEQ121215184</meta>
+    </track>
+    <track>
+      <title>Forgetting and Learning Again</title>
+      <creator>Lapalux</creator>
+      <album>Some Other Time EP</album>
+      <trackNum>3</trackNum>
+      <duration>258000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US25X1084183</meta>
+    </track>
+    <track>
+      <title>Wouh</title>
+      <creator>Nicolas Jaar</creator>
+      <album>Wouh</album>
+      <trackNum>1</trackNum>
+      <duration>446000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR4GL1013002</meta>
+    </track>
+  </trackList>
+</playlist>

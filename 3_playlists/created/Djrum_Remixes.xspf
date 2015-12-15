@@ -1,0 +1,76 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Djrum Remixes</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p10906194</meta>
+  <meta rel="https://rdio.com/xspf/name">Djrum Remixes</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/10906194/Djrum_Remixes/</meta>
+  <trackList>
+    <track>
+      <title>Explode (DjRum Remix)</title>
+      <creator>LV, Message to Bears</creator>
+      <album>Explode</album>
+      <trackNum>4</trackNum>
+      <duration>344000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBVFF0800024</meta>
+    </track>
+    <track>
+      <title>Taint (Djrum Remix)</title>
+      <creator>Haraket</creator>
+      <album>Taint &amp; Attgo</album>
+      <trackNum>3</trackNum>
+      <duration>293000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBHCD1368007</meta>
+    </track>
+    <track>
+      <title>The Cold in You</title>
+      <creator>Phaeleh</creator>
+      <album>The Cold in You (Kahn Remix) / The Cold in You (Djrum Remix)</album>
+      <trackNum>2</trackNum>
+      <duration>521000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB6NV1000364</meta>
+    </track>
+    <track>
+      <title>A Simple Beautiful Truth (Djrum Remix)</title>
+      <creator>Wild Beasts</creator>
+      <album>A Simple Beautiful Truth</album>
+      <trackNum>3</trackNum>
+      <duration>385000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1400219</meta>
+    </track>
+    <track>
+      <title>Ballade (Djrum Remix)</title>
+      <creator>Jono McCleery</creator>
+      <album>Ballade</album>
+      <trackNum>3</trackNum>
+      <duration>473000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB1302503</meta>
+    </track>
+    <track>
+      <title>Bliss (Djrum Remix)</title>
+      <creator>Gacha</creator>
+      <album>Bliss (Djrum Remix)</album>
+      <trackNum>1</trackNum>
+      <duration>482000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">BEZ351500169</meta>
+    </track>
+    <track>
+      <title>Milkyway 1311 (Djrum Remix)</title>
+      <creator>Onoe Caponoe</creator>
+      <album>Djrum // Onoe Caponoe (Djrum Remix)</album>
+      <trackNum>1</trackNum>
+      <duration>207000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBVFF0800064</meta>
+    </track>
+    <track>
+      <title>Milkyway 1311 (Djrum Remix Dub)</title>
+      <creator>Onoe Caponoe</creator>
+      <album>Djrum // Onoe Caponoe (Djrum Remix)</album>
+      <trackNum>2</trackNum>
+      <duration>207000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBVFF0800065</meta>
+    </track>
+  </trackList>
+</playlist>

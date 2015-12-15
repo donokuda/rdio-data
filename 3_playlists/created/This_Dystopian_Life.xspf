@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>This Dystopian Life</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p11665108</meta>
+  <meta rel="https://rdio.com/xspf/name">This Dystopian Life</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/11665108/This_Dystopian_Life/</meta>
+  <trackList>
+    <track>
+      <title>Spirit of the Winds</title>
+      <creator>Indigo</creator>
+      <album>Storm EP</album>
+      <trackNum>2</trackNum>
+      <duration>373000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NZSU10900197</meta>
+    </track>
+    <track>
+      <title>Into the Night (Synkro Remix)</title>
+      <creator>Caan</creator>
+      <album>Into the Night</album>
+      <trackNum>3</trackNum>
+      <duration>381000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBZ371210011</meta>
+    </track>
+    <track>
+      <title>Betrayed</title>
+      <creator>Sam KDC</creator>
+      <album>Walk the Path</album>
+      <trackNum>3</trackNum>
+      <duration>364000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBU5X1106003</meta>
+    </track>
+    <track>
+      <title>Fist Level 2B</title>
+      <creator>Instra:mental</creator>
+      <album>Mosaic, Vol. 2</album>
+      <trackNum>4</trackNum>
+      <duration>317000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBSZM1300246</meta>
+    </track>
+    <track>
+      <title>Afterglow</title>
+      <creator>Phaeleh</creator>
+      <album>Afterglow</album>
+      <trackNum>2</trackNum>
+      <duration>372000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB6NV1000120</meta>
+    </track>
+    <track>
+      <title>Cold Spot</title>
+      <creator>ASC, Sam KDC, Synth Sense</creator>
+      <album>AUXWL001-003</album>
+      <trackNum>3</trackNum>
+      <duration>358000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USU6K1000207</meta>
+    </track>
+    <track>
+      <title>Lost in Time (Synkro Remix)</title>
+      <creator>Synth Sense</creator>
+      <album>Tommorow's World (Remixes)</album>
+      <trackNum>1</trackNum>
+      <duration>362000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USU6K1000119</meta>
+    </track>
+    <track>
+      <title>Hot Flush (dBridge vs. Calibre)</title>
+      <creator>dBridge</creator>
+      <album>Providence / Hot Flush</album>
+      <trackNum>2</trackNum>
+      <duration>351000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBSZM0500008</meta>
+    </track>
+    <track>
+      <title>The Darkest Hour Is Just Before Dawn (Undercoat, Pt. 2)</title>
+      <creator>Djrum</creator>
+      <album>Watermark</album>
+      <trackNum>2</trackNum>
+      <duration>545000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBVFF0800034</meta>
+    </track>
+    <track>
+      <title>Is This</title>
+      <creator>Troy Gunner</creator>
+      <album>Communicate</album>
+      <trackNum>1</trackNum>
+      <duration>582000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB2391200016</meta>
+    </track>
+    <track>
+      <title>Away With Me (Calibre Remix)</title>
+      <creator>Spectrasoul</creator>
+      <album>Delay No More (The Remixes)</album>
+      <trackNum>6</trackNum>
+      <duration>314000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBPWR1200210</meta>
+    </track>
+    <track>
+      <title>Progression</title>
+      <creator>Synkro</creator>
+      <album>Progression</album>
+      <trackNum>1</trackNum>
+      <duration>338000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBSZM1100189</meta>
+    </track>
+    <track>
+      <title>Inward Outburst (Synkro Remix)</title>
+      <creator>Lowb</creator>
+      <album>Inward Outburst EP</album>
+      <trackNum>3</trackNum>
+      <duration>333000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBHPX1300009</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>My Shazam Tracks</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p14093704</meta>
+  <meta rel="https://rdio.com/xspf/name">My Shazam Tracks</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/14093704/My_Shazam_Tracks/</meta>
+  <trackList>
+    <track>
+      <title>Don't Mind</title>
+      <creator>Pete Oak &amp; Furns</creator>
+      <album>Suns &amp; Moons EP</album>
+      <trackNum>1</trackNum>
+      <duration>414000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBKQU1371715</meta>
+    </track>
+    <track>
+      <title>Flight</title>
+      <creator>K.Raydio,Psymun</creator>
+      <album>LucidDreamingSkylines</album>
+      <trackNum>4</trackNum>
+      <duration>245000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABS1356587</meta>
+    </track>
+    <track>
+      <title>Joyride</title>
+      <creator>K.Raydio,Psymun</creator>
+      <album>LucidDreamingSkylines</album>
+      <trackNum>5</trackNum>
+      <duration>192000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABS1356588</meta>
+    </track>
+  </trackList>
+</playlist>

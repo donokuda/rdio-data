@@ -1,0 +1,108 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>---+++---</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p1182801</meta>
+  <meta rel="https://rdio.com/xspf/name">---+++---</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/1182801/---%2B%2B%2B---/</meta>
+  <trackList>
+    <track>
+      <title>Eleven Thousand Six Hundred and Sixty-Nine Died of Natural Causes</title>
+      <creator>Jóhann Jóhannsson</creator>
+      <album>Copenhagen Dreams: Music from the Film</album>
+      <trackNum>1</trackNum>
+      <duration>54000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDBY1200181</meta>
+    </track>
+    <track>
+      <title>Matador</title>
+      <creator>Arms And Sleepers</creator>
+      <album>Matador</album>
+      <trackNum>2</trackNum>
+      <duration>307000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA370967803</meta>
+    </track>
+    <track>
+      <title>Fragment</title>
+      <creator>Raz Ohara, The Odd Orchestra</creator>
+      <album>Raz Ohara &amp; The Odd Orchestra</album>
+      <trackNum>4</trackNum>
+      <duration>46000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEBE70700112</meta>
+    </track>
+    <track>
+      <title>Huron River Drive</title>
+      <creator>Shigeto</creator>
+      <album>Lineage</album>
+      <trackNum>6</trackNum>
+      <duration>159000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71104806</meta>
+    </track>
+    <track>
+      <title>Rites</title>
+      <creator>Anenon</creator>
+      <album>Acquiescence - EP</album>
+      <trackNum>5</trackNum>
+      <duration>205000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US25X1083700</meta>
+    </track>
+    <track>
+      <title>Berlin</title>
+      <creator>Moderat</creator>
+      <album>Moderat (Deluxe Version)</album>
+      <trackNum>11</trackNum>
+      <duration>82000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEAE60900818</meta>
+    </track>
+    <track>
+      <title>Fleur</title>
+      <creator>Sepalcure</creator>
+      <album>Fleur EP</album>
+      <trackNum>1</trackNum>
+      <duration>289000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBHQT1100004</meta>
+    </track>
+    <track>
+      <title>Broken Promise</title>
+      <creator>Synkro</creator>
+      <album>Broken Promises EP</album>
+      <trackNum>1</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">BEZ351200020</meta>
+    </track>
+    <track>
+      <title>Forgive</title>
+      <creator>Burial</creator>
+      <album>Burial</album>
+      <trackNum>9</trackNum>
+      <duration>187000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBLZC0600010</meta>
+    </track>
+    <track>
+      <title>Es Schneit</title>
+      <creator>Pantha Du Prince</creator>
+      <album>Black Noise</album>
+      <trackNum>11</trackNum>
+      <duration>405000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0902732</meta>
+    </track>
+    <track>
+      <title>Tears</title>
+      <creator>Submerse</creator>
+      <album>Tears</album>
+      <trackNum>6</trackNum>
+      <duration>299000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEQ121215733</meta>
+    </track>
+    <track>
+      <title>Anywhere Anyone (Pearson Sound Beatless Reduction)</title>
+      <creator>Dntel</creator>
+      <album>Life Is Full Of Possibilities (Deluxe)</album>
+      <trackNum>23</trackNum>
+      <duration>362000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB1195523</meta>
+    </track>
+  </trackList>
+</playlist>

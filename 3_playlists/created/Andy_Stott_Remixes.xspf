@@ -1,0 +1,76 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Andy Stott Remixes</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p14181587</meta>
+  <meta rel="https://rdio.com/xspf/name">Andy Stott Remixes</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/14181587/Andy_Stott_Remixes/</meta>
+  <trackList>
+    <track>
+      <title>Valentine (Andy Stott Remix)</title>
+      <creator>Tricky</creator>
+      <album>Valentine (Andy Stott Remix)</album>
+      <trackNum>1</trackNum>
+      <duration>396000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEG931300451</meta>
+    </track>
+    <track>
+      <title>Nightvision (Andy Stott Remix)</title>
+      <creator>Bnjmn</creator>
+      <album>Second Kiss</album>
+      <trackNum>2</trackNum>
+      <duration>372000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMV321100005</meta>
+    </track>
+    <track>
+      <title>Keep It Low (Andy Stott Remix)</title>
+      <creator>The Hundred In The Hands</creator>
+      <album>Keep It Low</album>
+      <trackNum>2</trackNum>
+      <duration>411000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1200103</meta>
+    </track>
+    <track>
+      <title>Boys Latin (Andy Stott Remix)</title>
+      <creator>Panda Bear</creator>
+      <album>Boys Latin (Andy Stott Remix)</album>
+      <trackNum>1</trackNum>
+      <duration>376000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1500105</meta>
+    </track>
+    <track>
+      <title>I Heard Them Say (Andy Stott Remix)</title>
+      <creator>Maps</creator>
+      <album>Realigned</album>
+      <trackNum>12</trackNum>
+      <duration>362000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB-R8R-13-01282,GBR8R1301282</meta>
+    </track>
+    <track>
+      <title>Europa Hymn (Andy Stott Remix)</title>
+      <creator>MG</creator>
+      <album>Europa Hymn (Andy Stott Remix)</album>
+      <trackNum>1</trackNum>
+      <duration>422000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBR8R1500236</meta>
+    </track>
+    <track>
+      <title>Into the Televerse (Andy Stott Remix)</title>
+      <creator>Pablo Bolivar</creator>
+      <album>Gold Series Vol.1</album>
+      <trackNum>3</trackNum>
+      <duration>426000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">ES8950800152</meta>
+    </track>
+    <track>
+      <title>Great (Andy Stott Remix)</title>
+      <creator>Hatti Vatti Feat. Echo Ranks</creator>
+      <album>Great/Great (Andy Stott Remix)</album>
+      <trackNum>2</trackNum>
+      <duration>450000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBYCY0900131</meta>
+    </track>
+  </trackList>
+</playlist>

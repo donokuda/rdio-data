@@ -1,0 +1,124 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Hip-Shop</title>
+  <creator>donokuda</creator>
+  <meta rel="https://rdio.com/xspf/key">p11963602</meta>
+  <meta rel="https://rdio.com/xspf/name">Hip-Shop</meta>
+  <meta rel="https://rdio.com/xspf/owner">donokuda</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/donokuda/playlists/11963602/Hip-Shop/</meta>
+  <trackList>
+    <track>
+      <title>Denouement</title>
+      <creator>Kid Koala</creator>
+      <album>12 bit Blues</album>
+      <trackNum>12</trackNum>
+      <duration>97000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB1202911</meta>
+    </track>
+    <track>
+      <title>Triangle</title>
+      <creator>Badbadnotgood</creator>
+      <album>III</album>
+      <trackNum>1</trackNum>
+      <duration>227000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US8D81419001,USD8D1419001,USD8D1419000</meta>
+    </track>
+    <track>
+      <title>Afro Blue (feat. Erykah Badu)</title>
+      <creator>Robert Glasper</creator>
+      <album>Black Radio</album>
+      <trackNum>2</trackNum>
+      <duration>307000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBN21100478</meta>
+    </track>
+    <track>
+      <title>That Easy</title>
+      <creator>Clara Hill</creator>
+      <album>Restless Times</album>
+      <trackNum>6</trackNum>
+      <duration>286000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEP960300106</meta>
+    </track>
+    <track>
+      <title>Massage Situation</title>
+      <creator>Flying Lotus</creator>
+      <album>Reset EP</album>
+      <trackNum>3</trackNum>
+      <duration>167000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW0700095</meta>
+    </track>
+    <track>
+      <title>Karma (Katrah-Quey Remix)</title>
+      <creator>Hus</creator>
+      <album>Amaeru - EP</album>
+      <trackNum>1</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA8Y1010001</meta>
+    </track>
+    <track>
+      <title>Why</title>
+      <creator>Ta-Ku</creator>
+      <album>Beat Sketches Vol.1 (Reissue)</album>
+      <trackNum>3</trackNum>
+      <duration>286000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA8Y1010253</meta>
+    </track>
+    <track>
+      <title>Sun Will Rise</title>
+      <creator>Bonobo and Speech Debelle</creator>
+      <album>Ninja Tune XX (Volume 2)</album>
+      <trackNum>2</trackNum>
+      <duration>285000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB1002226</meta>
+    </track>
+    <track>
+      <title>The Time In Between</title>
+      <creator>AFTA-1</creator>
+      <album>The Time In Between</album>
+      <trackNum>1</trackNum>
+      <duration>235000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEGC60800327</meta>
+    </track>
+    <track>
+      <title>Brain</title>
+      <creator>The Jungle Brothers</creator>
+      <album>Dôme Ibiza. The Chill-Out Session (Vol. 2)</album>
+      <trackNum>6</trackNum>
+      <duration>282000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">ESA060310106</meta>
+    </track>
+    <track>
+      <title>Matchsticks</title>
+      <creator>Stray</creator>
+      <album>Matchsticks EP</album>
+      <trackNum>4</trackNum>
+      <duration>217000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBSZM1200276</meta>
+    </track>
+    <track>
+      <title>Tell A Tale (Bonus Track)</title>
+      <creator>Shigeto</creator>
+      <album>No Better Time Than Now</album>
+      <trackNum>12</trackNum>
+      <duration>258000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71308412</meta>
+    </track>
+    <track>
+      <title>Terms and Conditions</title>
+      <creator>Chet Faker</creator>
+      <album>Thinking in Textures</album>
+      <trackNum>2</trackNum>
+      <duration>222000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUDJ01200878</meta>
+    </track>
+    <track>
+      <title>High &amp; Dry feat. Bilal</title>
+      <creator>Pete Kuzma</creator>
+      <album>Exit Music: Songs With Radio Heads</album>
+      <trackNum>4</trackNum>
+      <duration>356000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEG930610165</meta>
+    </track>
+  </trackList>
+</playlist>

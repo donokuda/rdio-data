@@ -1,0 +1,244 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Radiohead for Jazzheads</title>
+  <creator>skydivingrhino</creator>
+  <meta rel="https://rdio.com/xspf/key">p26273</meta>
+  <meta rel="https://rdio.com/xspf/name">Radiohead for Jazzheads</meta>
+  <meta rel="https://rdio.com/xspf/owner">skydivingrhino</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">1_favorites</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">favorites_playlists</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/skydivingrhino/playlists/26273/Radiohead_for_Jazzheads/</meta>
+  <trackList>
+    <track>
+      <title>Maiden Voyage / Everything In Its Right Place</title>
+      <creator>Robert Glasper</creator>
+      <album>In My Element</album>
+      <trackNum>7</trackNum>
+      <duration>523000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBN20600629</meta>
+    </track>
+    <track>
+      <title>Knives Out</title>
+      <creator>Brad Mehldau Trio</creator>
+      <album>Day Is Done (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>505000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO10500006</meta>
+    </track>
+    <track>
+      <title>Karma Police</title>
+      <creator>The Bad Plus</creator>
+      <album>Exit Music: Songs With Radio Heads</album>
+      <trackNum>10</trackNum>
+      <duration>443000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEG930610166</meta>
+    </track>
+    <track>
+      <title>Pyramid Song</title>
+      <creator>Realistic Orchestra</creator>
+      <album>Recorded Live at Bruno's In San Francisco, 08.05.03</album>
+      <trackNum>4</trackNum>
+      <duration>467000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US25T0810770</meta>
+    </track>
+    <track>
+      <title>Videotapes</title>
+      <creator>Contreband</creator>
+      <album>Contreband</album>
+      <trackNum>2</trackNum>
+      <duration>329000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CH2170923802</meta>
+    </track>
+    <track>
+      <title>Airbag</title>
+      <creator>Júlio Resende Trio</creator>
+      <album>You Taste Like a Song</album>
+      <trackNum>4</trackNum>
+      <duration>452000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">PTNF11110068</meta>
+    </track>
+    <track>
+      <title>2+2=5</title>
+      <creator>Mark Edwards</creator>
+      <album>In Deep</album>
+      <trackNum>5</trackNum>
+      <duration>434000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB36G1300016</meta>
+    </track>
+    <track>
+      <title>Morning Bell</title>
+      <creator>Eldar Djangirov, Armando Gola, Ludwig Afonso</creator>
+      <album>Breakthrough</album>
+      <trackNum>5</trackNum>
+      <duration>242000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9331315205</meta>
+    </track>
+    <track>
+      <title>Little By Little</title>
+      <creator>Dan White Sextet</creator>
+      <album>New York Sessions</album>
+      <trackNum>1</trackNum>
+      <duration>401000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM91211465</meta>
+    </track>
+    <track>
+      <title>Paranoid Android</title>
+      <creator>Brad Mehldau</creator>
+      <album>Largo</album>
+      <trackNum>5</trackNum>
+      <duration>545000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10201068</meta>
+    </track>
+    <track>
+      <title>I Might Be Wrong</title>
+      <creator>Trio Jérôme Beaulieu</creator>
+      <album>Chercher l'équilibre (feat. Philippe Leduc &amp; William Côté)</album>
+      <trackNum>8</trackNum>
+      <duration>699000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CABL31301292</meta>
+    </track>
+    <track>
+      <title>No Surprises</title>
+      <creator>Yaron Herman Trio</creator>
+      <album>Follow the White Rabbit</album>
+      <trackNum>14</trackNum>
+      <duration>122000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEA891001213</meta>
+    </track>
+    <track>
+      <title>High and Dry</title>
+      <creator>Rudy Royston</creator>
+      <album>303</album>
+      <trackNum>6</trackNum>
+      <duration>349000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAS91435006</meta>
+    </track>
+    <track>
+      <title>Scatterbrain</title>
+      <creator>Steve Gadd Band</creator>
+      <album>Gadditude</album>
+      <trackNum>9</trackNum>
+      <duration>260000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4R31301800</meta>
+    </track>
+    <track>
+      <title>The Tourist</title>
+      <creator>Aaron Choulai Trio</creator>
+      <album>Ranu</album>
+      <trackNum>7</trackNum>
+      <duration>338000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2W60923407</meta>
+    </track>
+    <track>
+      <title>Idioteque</title>
+      <creator>Cory Wong Quartet</creator>
+      <album>Even Uneven</album>
+      <trackNum>6</trackNum>
+      <duration>296000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USACX1004228</meta>
+    </track>
+    <track>
+      <title>The Bends</title>
+      <creator>Louis Durra</creator>
+      <album>The Best of All Possible Worlds</album>
+      <trackNum>3</trackNum>
+      <duration>317000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US8V31100020</meta>
+    </track>
+    <track>
+      <title>Climbing up the walls</title>
+      <creator>Amnesiac Quartet</creator>
+      <album>Tribute to Radiohead, Vol.2</album>
+      <trackNum>4</trackNum>
+      <duration>330000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V81765353</meta>
+    </track>
+    <track>
+      <title>Bodysnatchers</title>
+      <creator>Lawrence University Jazz Ensemble</creator>
+      <album>Head Radio Retransmissions - A Tribute to Radiohead</album>
+      <trackNum>12</trackNum>
+      <duration>297000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEZ941274612</meta>
+    </track>
+    <track>
+      <title>Reckoner (Live At Capitol Studios / 2014)</title>
+      <creator>Robert Glasper</creator>
+      <album>Reckoner (Live)</album>
+      <trackNum>1</trackNum>
+      <duration>307000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71501953</meta>
+    </track>
+    <track>
+      <title>Exit Music (For A Film)</title>
+      <creator>Brad Mehldau</creator>
+      <album>Songs: The Art Of The Trio, Volume Three</album>
+      <trackNum>4</trackNum>
+      <duration>264000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19800512</meta>
+    </track>
+    <track>
+      <title>The Eraser</title>
+      <creator>Christian Scott</creator>
+      <album>Yesterday You Said Tomorrow</album>
+      <trackNum>2</trackNum>
+      <duration>326000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R0920716</meta>
+    </track>
+    <track>
+      <title>2 + 2 = 5</title>
+      <creator>Ernesto Cervini Quartet</creator>
+      <album>Little Black Bird</album>
+      <trackNum>9</trackNum>
+      <duration>399000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USY870900056</meta>
+    </track>
+    <track>
+      <title>Morning Bell</title>
+      <creator>Chris Potter</creator>
+      <album>Underground Quartet</album>
+      <trackNum>2</trackNum>
+      <duration>341000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRZ020580480</meta>
+    </track>
+    <track>
+      <title>Pyramid Song</title>
+      <creator>Turtleboy</creator>
+      <album>Smart Matter</album>
+      <trackNum>2</trackNum>
+      <duration>344000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAS231100037</meta>
+    </track>
+    <track>
+      <title>High &amp; Dry</title>
+      <creator>R.I.S.S.</creator>
+      <album>Color &amp; Style</album>
+      <trackNum>2</trackNum>
+      <duration>378000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CH2171023902</meta>
+    </track>
+    <track>
+      <title>Paranoid Android</title>
+      <creator>Brad Mehldau</creator>
+      <album>Live in Tokyo</album>
+      <trackNum>6</trackNum>
+      <duration>1170000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO10485305</meta>
+    </track>
+    <track>
+      <title>Everything In Its Right Place</title>
+      <creator>Brad Mehldau Trio</creator>
+      <album>Anything Goes</album>
+      <trackNum>8</trackNum>
+      <duration>415000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10303020</meta>
+    </track>
+    <track>
+      <title>Everything In Its Right Place (Alternate Version)</title>
+      <creator>Brad Mehldau Trio</creator>
+      <album>Everything In Its Right Place</album>
+      <trackNum>1</trackNum>
+      <duration>454000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10400026</meta>
+    </track>
+  </trackList>
+</playlist>
